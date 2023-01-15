@@ -1,0 +1,25 @@
+{
+  "name": "tmb-muralnight-login",
+  "version": "1.0.0",
+  "description": "This is an attempt to duplicate Pluralsight's Flow login page to improve my web design skills and provide content for my portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BigSteveLittle/tmb-murialnight.git"
+  },
+  "keywords": [
+    "Website",  
+    "Design", 
+    "HTML", 
+    "CSS"
+  ],
+  "author": "BigSteveLittle <bigsteve@redandblackzone.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigSteveLittle/tmb-murialnight/issues"
+  },
+  "homepage": "https://github.com/BigSteveLittle/tmb-murialnight"
+}
